@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shourya179/leetcode-QandA/tree/master/0096-unique-binary-search-trees) |
+| [0509-fibonacci-number](https://github.com/shourya179/leetcode-QandA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shourya179/leetcode-QandA/tree/master/0096-unique-binary-search-trees) |
+| [0509-fibonacci-number](https://github.com/shourya179/leetcode-QandA/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -82,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/shourya179/leetcode-QandA/tree/master/0797-all-paths-from-source-to-target) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shourya179/leetcode-QandA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shourya179/leetcode-QandA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

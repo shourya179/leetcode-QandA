@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shourya179/leetcode-QandA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/shourya179/leetcode-QandA/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/shourya179/leetcode-QandA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shourya179/leetcode-QandA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/shourya179/leetcode-QandA/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/shourya179/leetcode-QandA/tree/master/0509-fibonacci-number) |
 ## Tree
@@ -91,5 +93,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shourya179/leetcode-QandA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shourya179/leetcode-QandA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

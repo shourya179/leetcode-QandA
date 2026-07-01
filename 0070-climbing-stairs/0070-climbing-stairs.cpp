@@ -10,8 +10,8 @@ public:
         if (dp[n] != -1)
             return dp[n];
 
-        dp[n] = climbStairs(n - 1, dp) + climbStairs(n - 2, dp);
-        return dp[n];
+       return  dp[n] = climbStairs(n - 1, dp) + climbStairs(n - 2, dp);
+        
     }
 
     int climbStairs(int n) {

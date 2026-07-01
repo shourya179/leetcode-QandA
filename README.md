@@ -48,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/shourya179/leetcode-QandA/tree/master/0797-all-paths-from-source-to-target) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shourya179/leetcode-QandA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shourya179/leetcode-QandA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/shourya179/leetcode-QandA/tree/master/0797-all-paths-from-source-to-target) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shourya179/leetcode-QandA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shourya179/leetcode-QandA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sorting
@@ -74,5 +76,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/shourya179/leetcode-QandA/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shourya179/leetcode-QandA/tree/master/1971-find-if-path-exists-in-graph) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/shourya179/leetcode-QandA/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->

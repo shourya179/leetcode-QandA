@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shourya179/leetcode-QandA/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/shourya179/leetcode-QandA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shourya179/leetcode-QandA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/shourya179/leetcode-QandA/tree/master/0070-climbing-stairs) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shourya179/leetcode-QandA/tree/master/0022-generate-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/shourya179/leetcode-QandA/tree/master/0797-all-paths-from-source-to-target) |
 ## Recursion
 |  |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/shourya179/leetcode-QandA/tree/master/0063-unique-paths-ii) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shourya179/leetcode-QandA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

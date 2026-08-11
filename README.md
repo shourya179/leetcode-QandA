@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/shourya179/leetcode-QandA/tree/master/0063-unique-paths-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shourya179/leetcode-QandA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0136-single-number](https://github.com/shourya179/leetcode-QandA/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/shourya179/leetcode-QandA/tree/master/0198-house-robber) |
 ## Divide and Conquer
 |  |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shourya179/leetcode-QandA/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/shourya179/leetcode-QandA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

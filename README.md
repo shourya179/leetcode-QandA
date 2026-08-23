@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shourya179/leetcode-QandA/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/shourya179/leetcode-QandA/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/shourya179/leetcode-QandA/tree/master/0063-unique-paths-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shourya179/leetcode-QandA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -137,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shourya179/leetcode-QandA/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shourya179/leetcode-QandA/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shourya179/leetcode-QandA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

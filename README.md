@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shourya179/leetcode-QandA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shourya179/leetcode-QandA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/shourya179/leetcode-QandA/tree/master/0198-house-robber) |
+| [0238-product-of-array-except-self](https://github.com/shourya179/leetcode-QandA/tree/master/0238-product-of-array-except-self) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shourya179/leetcode-QandA/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/shourya179/leetcode-QandA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
